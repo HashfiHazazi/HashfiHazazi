@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashfi</h1>
 <h3 align="center">Multiplatfrom developer | Kotlin | Flutter</h3>
 
-- 🔭 I’m currently intern on **Zegen solusi mandiri**
+- 🔭 I’m currently intern at **Zegen solusi mandiri**
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
