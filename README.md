@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hashfi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Hashfi</h1>
 <h3 align="center">Multiplatfrom developer | Kotlin | Flutter</h3>
 
 - 🔭 I’m currently intern at **Zegen solusi mandiri**
