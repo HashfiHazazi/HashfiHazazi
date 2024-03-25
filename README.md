@@ -49,9 +49,7 @@
 
 - 🚀  My Github Stats
 **This Github Stats doesn't really indicate my Skills**, This stats just showing the language(s) i've used Most on my GitHub Repositories
-<p align="left"> 
-![HashfiHazazi's Stats](https://github-readme-stats.vercel.app/api?username=HashfiHazazi&theme=vue-dark&show_icons=true&hide_border=false&count_private=false) <br>
+![HashfiHazazi's Stats](https://github-readme-stats.vercel.app/api?username=HashfiHazazi&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 ![HashfiHazazi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HashfiHazazi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-</p>
 
 
