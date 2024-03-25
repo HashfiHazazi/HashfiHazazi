@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://linktr.ee/hashfiihzazii_](https://linktr.ee/hashfiihzazii_)
 
-<h3 align="left">Languages:</h3>
+- <h3 align="left">🌐 Languages: </h3>
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=kotlin" height="56" alt="logo"  />
   <img width="8" />
@@ -31,7 +31,7 @@
 </p>
 <br>
 
-<h3 align="left">Tools:</h3>
+- <h3 align="left">- 🛠 Tools: </h3>
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=github" height="56" alt="logo"  />
   <img width="8" />
@@ -47,8 +47,7 @@
 </p>
 
 
-- 🚀  My Github Stats
-**This Github Stats doesn't really indicate my Skills**, This stats just showing the language(s) i've used Most on my GitHub Repositories
+- <h3 align="left">- 🚀  My Github Stats: </h3>
 ![HashfiHazazi's Stats](https://github-readme-stats.vercel.app/api?username=HashfiHazazi&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 ![HashfiHazazi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HashfiHazazi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
