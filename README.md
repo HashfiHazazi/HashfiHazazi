@@ -13,32 +13,45 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=kotlin" height="56" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="56" alt="logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=dart" height="56" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="56" alt="logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="56" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="56" alt="logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="56" alt="firebase logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=html" height="56" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="56" alt="logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="56" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="56" alt="logo"  />
   <img width="8" />
-    <img src="https://skillicons.dev/icons?i=firebase" height="56" alt="firebase logo"  />
+    <img src="https://skillicons.dev/icons?i=firebase" height="56" alt="logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="56" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="56" alt="logo"  />
 </p>
 <br>
 
 <h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=github" height="56" alt="logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="56" alt="logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="56" alt="logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=apple" height="56" alt="logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=windows" height="56" alt="logo"  />
+  <img width="8" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1L2VtOje6mV3kDT7FIu1SGEH8pRqg7RySdMdSocjjEOzSc9zWKjl3kEipPZcnj4qwUNk&usqp=CAU" height="56" alt="logo"  />
+</p>
 
 
 - 🚀  My Github Stats
 **This Github Stats doesn't really indicate my Skills**, This stats just showing the language(s) i've used Most on my GitHub Repositories
-
+<p align="left"> 
 ![HashfiHazazi's Stats](https://github-readme-stats.vercel.app/api?username=HashfiHazazi&theme=vue-dark&show_icons=true&hide_border=false&count_private=false) <br>
-![HashfiHazazi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HashfiHazazi&theme=vue-dark&hide_border=false) <br>
 ![HashfiHazazi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HashfiHazazi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+</p>
+
 
