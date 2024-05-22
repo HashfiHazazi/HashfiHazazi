@@ -1,9 +1,9 @@
 <h1 align="center">Assalamualaikum, Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Hashfi</h1>
 <h3 align="center">Multiplatfrom developer | Kotlin | Flutter</h3>
 
-- 🔭 I’m currently intern at **Zegen solusi mandiri**
+- 🔭 I’m currently study at **Bina Pendidikan Vocational School**
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **Dart, Flutter, Kotlin, Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://hashfihazazi.github.io/My-Website-Portofolio/](https://hashfihazazi.github.io/My-Website-Portofolio/)
 
