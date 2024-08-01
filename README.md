@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, Kotlin, Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://hashfihazazi.github.io/My-Website-Portofolio/](https://hashfihazazi.github.io/My-Website-Portofolio/)
-
 - 📫 How to reach me **muhamadhazazi52@gmail.com**
 
 - 📄 Know about my experiences [https://linktr.ee/hashfiihzazii_](https://linktr.ee/hashfiihzazii_)
